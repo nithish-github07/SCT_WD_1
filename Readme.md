@@ -8,6 +8,8 @@ This project is a fully responsive multi-page website built using **HTML**, **CS
 
 <img width="1910" height="918" alt="Screenshot 2025-08-02 143951" src="https://github.com/user-attachments/assets/861ce6d8-20aa-4bda-946e-4a4bd8f02547" />
 
+**Preview of the Website:** https://nithish-github07.github.io/SCT_WD_1/ 
+
 
 ## 📌 Features
 
