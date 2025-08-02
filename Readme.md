@@ -38,6 +38,11 @@ This project is a fully responsive multi-page website built using **HTML**, **CS
 - CSS3 (Flexbox + Media Queries)
 - Vanilla JavaScript
 
+## Author:
+**Nithish S**
+- 🎓 Student at PSG College of Technology
+- 💻 Intern at SkillCraft Technology
+- 🎯 Passionate Web Developer
 
 
 
